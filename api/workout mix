@@ -1,0 +1,208 @@
+{
+  "status": true,
+  "author": "NexRay",
+  "result": [
+    {
+      "title": "Black Eyed Peas - Pump It",
+      "artist": "Black Eyed Peas",
+      "duration": "3:34",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273bc2285d082d8521bea640f0b",
+      "popularity": 27,
+      "album": "Pump It: Workout Mix",
+      "release_date": "2024-12-27",
+      "url": "https://open.spotify.com/track/7x5GWnZNw5HR0OxuQOtTjy"
+    },
+    {
+      "title": "SuperFitness - Conga - Workout Mix Edit 128 bpm",
+      "artist": "SuperFitness",
+      "duration": "2:37",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273d7cf2c56678a0359b09cf978",
+      "popularity": 28,
+      "album": "Workout Motivation: 128 bpm (70s - 80s - 90s)",
+      "release_date": "2022-12-02",
+      "url": "https://open.spotify.com/track/1caMo9gr5XmoyCYZC9me2w"
+    },
+    {
+      "title": "Mentol - More passion, more energy, more footwork - Workout Mix",
+      "artist": "Mentol",
+      "duration": "2:20",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273ed5c2e218c69ffd140291e00",
+      "popularity": 25,
+      "album": "More passion, more energy, more footwork (Workout Mix)",
+      "release_date": "2023-09-11",
+      "url": "https://open.spotify.com/track/5HbyoYjkzsJ4SfpYqmGpKa"
+    },
+    {
+      "title": "Rockwell - Somebody's Watching Me",
+      "artist": "Rockwell",
+      "duration": "4:54",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273976fe3fd49591eb4c458112a",
+      "popularity": 57,
+      "album": "Body By Jake: Randy Couture Workout Mix (BPM 104-144)",
+      "release_date": "2012-02-01",
+      "url": "https://open.spotify.com/track/2H2379xRxgQVvcOSoL8Ajr"
+    },
+    {
+      "title": "Stevie B - Spring Love",
+      "artist": "Stevie B",
+      "duration": "4:23",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f922e933f3e9eef7b09291d7",
+      "popularity": 37,
+      "album": "Essential Workout Mix: Freestyle Madness Vol. 1",
+      "release_date": "2009-03-31",
+      "url": "https://open.spotify.com/track/1ByrNrLu1WfoeV8jouYLUT"
+    },
+    {
+      "title": "CrossFit Junkies - Tsunami - Instrumental Cardio Workout Mix",
+      "artist": "CrossFit Junkies",
+      "duration": "4:15",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2736dceba1aeabcc837df4156ed",
+      "popularity": 45,
+      "album": "Crossfit Edm 2023 Instrumental Workout",
+      "release_date": "2023-01-01",
+      "url": "https://open.spotify.com/track/6vZWjlZoqfW0UIIt94cyKj"
+    },
+    {
+      "title": "The Buggles - Video Killed The Radio Star - '80s Weight Loss Workout Mix",
+      "artist": "The Buggles",
+      "duration": "2:60",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733168929f459382de9c9d027c",
+      "popularity": 38,
+      "album": "Body By Jake: 80s Weight Loss Workout (BPM 100-136)",
+      "release_date": "2012-10-09",
+      "url": "https://open.spotify.com/track/26KfhkY2su4uDZenJwTeNl"
+    },
+    {
+      "title": "Tears For Fears - Head Over Heels - '80s Weight Loss Workout Mix",
+      "artist": "Tears For Fears",
+      "duration": "2:37",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733168929f459382de9c9d027c",
+      "popularity": 32,
+      "album": "Body By Jake: 80s Weight Loss Workout (BPM 100-136)",
+      "release_date": "2012-10-09",
+      "url": "https://open.spotify.com/track/7aejHLPc8ekceHmQV6p2Z7"
+    },
+    {
+      "title": "Dan Hartman - I Can Dream About You - `80s Weight Loss Workout Mix",
+      "artist": "Dan Hartman",
+      "duration": "3:38",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733168929f459382de9c9d027c",
+      "popularity": 33,
+      "album": "Body By Jake: 80s Weight Loss Workout (BPM 100-136)",
+      "release_date": "2012-10-09",
+      "url": "https://open.spotify.com/track/4MydF90Pp0nwbGZX0dDYBW"
+    },
+    {
+      "title": "SuperFitness - Lift Me Up - Workout Mix 134 bpm",
+      "artist": "SuperFitness",
+      "duration": "3:23",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27372690869eb6ef4c725f0a61e",
+      "popularity": 23,
+      "album": "Lift Me Up (Workout Mix)",
+      "release_date": "2023-07-12",
+      "url": "https://open.spotify.com/track/057vDa02qLDN5CxAZhDXQF"
+    },
+    {
+      "title": "Animotion - Obsession - `80s Weight Loss Workout Mix",
+      "artist": "Animotion",
+      "duration": "3:34",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2733168929f459382de9c9d027c",
+      "popularity": 33,
+      "album": "Body By Jake: 80s Weight Loss Workout (BPM 100-136)",
+      "release_date": "2012-10-09",
+      "url": "https://open.spotify.com/track/1cki1a9A9LpEoYAuTquoNO"
+    },
+    {
+      "title": "Latin Workout - Bailar - Workout Mix Edit 130 bpm",
+      "artist": "Latin Workout",
+      "duration": "2:45",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cc95fb4a0d62d85c6c56ee10",
+      "popularity": 23,
+      "album": "Bailar",
+      "release_date": "2022-12-15",
+      "url": "https://open.spotify.com/track/2FZOJ9KJVrldC3gyJbAj7x"
+    },
+    {
+      "title": "SuperFitness - Tell It To My Heart - Workout Mix Edit 128 bpm",
+      "artist": "SuperFitness",
+      "duration": "2:52",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cc596264be30c61ed1c870be",
+      "popularity": 21,
+      "album": "Workout Body Fitness 2022",
+      "release_date": "2022-03-18",
+      "url": "https://open.spotify.com/track/0mViWF5OtHmlJ02lSnO1kR"
+    },
+    {
+      "title": "Chance the Rapper - Work Out",
+      "artist": "Chance the Rapper",
+      "duration": "4:03",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273134bad790f972d90a57993df",
+      "popularity": 42,
+      "album": "Work Out",
+      "release_date": "2018-07-18",
+      "url": "https://open.spotify.com/track/3PdgIdRXJjgxfOr7slldel"
+    },
+    {
+      "title": "Maroon 5 - Moves Like Jagger - Radio Edit",
+      "artist": "Maroon 5",
+      "duration": "3:21",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e3673b710a9f83302baafe81",
+      "popularity": 14,
+      "album": "Workout Mix 2021",
+      "release_date": "2021-01-15",
+      "url": "https://open.spotify.com/track/2YF5pz50cs7587XOAfWyZa"
+    },
+    {
+      "title": "Stevie B - Dreamin' Of Love",
+      "artist": "Stevie B",
+      "duration": "3:52",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f922e933f3e9eef7b09291d7",
+      "popularity": 31,
+      "album": "Essential Workout Mix: Freestyle Madness Vol. 1",
+      "release_date": "2009-03-31",
+      "url": "https://open.spotify.com/track/0Q5Z7wJHW9GvQGvIze22d9"
+    },
+    {
+      "title": "Imagine Dragons - Natural",
+      "artist": "Imagine Dragons",
+      "duration": "3:09",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273dac5fe18581a2f36d652991b",
+      "popularity": 14,
+      "album": "Workout Mix",
+      "release_date": "2019-11-15",
+      "url": "https://open.spotify.com/track/0RlpMKbuoflWdp4eALrMJK"
+    },
+    {
+      "title": "Trinere - All Night",
+      "artist": "Trinere",
+      "duration": "6:25",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737853caaba477e9dba42e232a",
+      "popularity": 26,
+      "album": "Essential Workout Mix: 80's Electro",
+      "release_date": "2009-03-24",
+      "url": "https://open.spotify.com/track/5S1eGGXBsiQHRcYHBrbM92"
+    },
+    {
+      "title": "Man Parrish - Hip Hop Bee Bop",
+      "artist": "Man Parrish",
+      "duration": "5:28",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737853caaba477e9dba42e232a",
+      "popularity": 25,
+      "album": "Essential Workout Mix: 80's Electro",
+      "release_date": "2009-03-24",
+      "url": "https://open.spotify.com/track/77umMPVM2MNKa1PFDmo6nq"
+    },
+    {
+      "title": "Ellie Goulding - Lights - Bassnectar Remix",
+      "artist": "Ellie Goulding",
+      "duration": "4:37",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273e3673b710a9f83302baafe81",
+      "popularity": 31,
+      "album": "Workout Mix 2021",
+      "release_date": "2021-01-15",
+      "url": "https://open.spotify.com/track/5P9exvsk9y6jtZQOTevxGa"
+    }
+  ],
+  "timestamp": "2026-04-27T16:08:19.075Z",
+  "response_time": "864ms"
+}
