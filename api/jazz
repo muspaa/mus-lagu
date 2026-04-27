@@ -1,0 +1,208 @@
+{
+  "status": true,
+  "author": "NexRay",
+  "result": [
+    {
+      "title": "Lil Double 0 - Jazz",
+      "artist": "Lil Double 0",
+      "duration": "2:33",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27379db2cf3559200d159bb1246",
+      "popularity": 57,
+      "album": "Walk Down World",
+      "release_date": "2022-11-04",
+      "url": "https://open.spotify.com/track/5tp5lixxnFoKu6WAVBri75"
+    },
+    {
+      "title": "Wooli - Jazz Cabbage",
+      "artist": "Wooli",
+      "duration": "2:52",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732d97dda0ace276b21e774804",
+      "popularity": 55,
+      "album": "Jazz Cabbage",
+      "release_date": "2026-02-13",
+      "url": "https://open.spotify.com/track/0WZomj99qKEzipmSQIQktM"
+    },
+    {
+      "title": "Laufey - Falling Behind",
+      "artist": "Laufey",
+      "duration": "2:54",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4",
+      "popularity": 82,
+      "album": "Everything I Know About Love",
+      "release_date": "2022-08-26",
+      "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "title": "Dmitri Shostakovich - Jazz Suite No. 2: VI. Waltz 2",
+      "artist": "Dmitri Shostakovich",
+      "duration": "3:14",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273da2e4a4059497dbf17a9bb78",
+      "popularity": 69,
+      "album": "Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot",
+      "release_date": "2002-04-15",
+      "url": "https://open.spotify.com/track/0pjCsB0XNSyqM9UazlTODC"
+    },
+    {
+      "title": "A Tribe Called Quest - Jazz (We've Got)",
+      "artist": "A Tribe Called Quest",
+      "duration": "4:10",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
+      "popularity": 65,
+      "album": "The Low End Theory",
+      "release_date": "1991-09-24",
+      "url": "https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ"
+    },
+    {
+      "title": "berlioz - jazz is for ordinary people",
+      "artist": "berlioz",
+      "duration": "2:44",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273363691e68dc1c4089e415e2f",
+      "popularity": 68,
+      "album": "jazz is for ordinary people",
+      "release_date": "2023-04-07",
+      "url": "https://open.spotify.com/track/06SYfhYSo9iY3txHE6W9Dl"
+    },
+    {
+      "title": "KingSammelot - Jazzy Juice",
+      "artist": "KingSammelot",
+      "duration": "2:37",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273cf97e39859acb7a873bccb01",
+      "popularity": 44,
+      "album": "Jazzy Juice",
+      "release_date": "2023-02-25",
+      "url": "https://open.spotify.com/track/3jbnpv6yDbZGruKmPFu54k"
+    },
+    {
+      "title": "Laufey - Promise",
+      "artist": "Laufey",
+      "duration": "3:54",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
+      "popularity": 83,
+      "album": "Bewitched",
+      "release_date": "2023-09-08",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "title": "Aylior - Jazz",
+      "artist": "Aylior",
+      "duration": "1:52",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27354dcc7276df5941833ce9909",
+      "popularity": 32,
+      "album": "Jazz",
+      "release_date": "2019-09-12",
+      "url": "https://open.spotify.com/track/2JJ9z5cHcm1fXkp8lDVaQ2"
+    },
+    {
+      "title": "Queen - Don't Stop Me Now - Remastered 2011",
+      "artist": "Queen",
+      "duration": "3:29",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889",
+      "popularity": 78,
+      "album": "Jazz (Deluxe Remastered Version)",
+      "release_date": "1978-11-10",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+    },
+    {
+      "title": "Mick Jenkins - Jazz",
+      "artist": "Mick Jenkins",
+      "duration": "4:20",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2730c5be09aec989ea56650f7b3",
+      "popularity": 50,
+      "album": "The Water (S)",
+      "release_date": "2014-08-12",
+      "url": "https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX"
+    },
+    {
+      "title": "iwamizu - Jazz",
+      "artist": "iwamizu",
+      "duration": "3:19",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273785f0e681c047c51942db498",
+      "popularity": 29,
+      "album": "Alone",
+      "release_date": "2016-10-07",
+      "url": "https://open.spotify.com/track/4N6SmWg9M92xRwejuVBxwQ"
+    },
+    {
+      "title": "Queen - Fat Bottomed Girls - Remastered 2011",
+      "artist": "Queen",
+      "duration": "4:16",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889",
+      "popularity": 71,
+      "album": "Jazz (Deluxe Remastered Version)",
+      "release_date": "1978-11-10",
+      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
+    },
+    {
+      "title": "Gordon Goodwin's Big Phat Band - The Jazz Police",
+      "artist": "Gordon Goodwin's Big Phat Band",
+      "duration": "5:19",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273122fc2d4a47502e72763a092",
+      "popularity": 36,
+      "album": "XXL",
+      "release_date": "2003-09-23",
+      "url": "https://open.spotify.com/track/3MmtFohpZUmEzwUQgJvg0I"
+    },
+    {
+      "title": "Outkast - Jazzy Belle",
+      "artist": "Outkast",
+      "duration": "4:12",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+      "popularity": 57,
+      "album": "ATLiens",
+      "release_date": "1996-08-27",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
+    },
+    {
+      "title": "The Durutti Column - Jazz",
+      "artist": "The Durutti Column",
+      "duration": "1:40",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734be74b9209d99dc3a8c682e8",
+      "popularity": 26,
+      "album": "The Return of The Durutti Column",
+      "release_date": "1979-01-01",
+      "url": "https://open.spotify.com/track/2zMn261sjoitKZJehIMKPD"
+    },
+    {
+      "title": "The Fumes - Jazz",
+      "artist": "The Fumes",
+      "duration": "4:23",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273ff15656794ce946e975eccaf",
+      "popularity": 31,
+      "album": "Bloodless",
+      "release_date": "2015-11-20",
+      "url": "https://open.spotify.com/track/1D5PMly59volxN3IJMv9bt"
+    },
+    {
+      "title": "D-giioo - Jazz",
+      "artist": "D-giioo",
+      "duration": "2:46",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2737244b8d0bb255a790b805d0a",
+      "popularity": 26,
+      "album": "Jazz",
+      "release_date": "2025-09-25",
+      "url": "https://open.spotify.com/track/3ePfQO7BA5uOnz7SQJ8gtp"
+    },
+    {
+      "title": "David Crowe - Jazz",
+      "artist": "David Crowe",
+      "duration": "4:50",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273b29936948380841ce5f1a6d9",
+      "popularity": 17,
+      "album": "White Bread",
+      "release_date": "2019-01-16",
+      "url": "https://open.spotify.com/track/1NsIh627OjaxehLQx8LibX"
+    },
+    {
+      "title": "DJ Zeeter - Jazz",
+      "artist": "DJ Zeeter",
+      "duration": "3:44",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b27343d048a854e611c1368aa34f",
+      "popularity": 18,
+      "album": "Maxium",
+      "release_date": "2022-03-08",
+      "url": "https://open.spotify.com/track/0TrEMKiKV6JE7PyGkmm2VV"
+    }
+  ],
+  "timestamp": "2026-04-27T15:59:12.521Z",
+  "response_time": "782ms"
+}
